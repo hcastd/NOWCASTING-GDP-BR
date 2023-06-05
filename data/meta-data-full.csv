@@ -1,0 +1,196 @@
+group,category,code,name_df,name,source,frequency,original,order,transf,tcode,transf_code,days_lag,where
+0,Produção,22099,gdp,PIB trimestral - Dados observados - preços de mercado,IBGE,Q,Index,,pctchg_12,2,3,63,BCB
+0,Produção,24363,ibc_br,Índice de Atividade Econômica do Banco Central - IBC-Br        ,BCB,M,Index,,diff_12,2,3,52,BCB
+0,Produção,4380,mon_gdp,PIB mensal - Valores correntes (R$ milhões)	,BCB,M,R$,,diff_12,2,4,48,BCB
+0,Produção,21859,ind_prod,Indicadores da produção (2012=100) - Produção Industrial - Geral	,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21861,ind_prod_ext,Indicadores da produção (2012=100) - Produção Industrial - Extrativa mineral	,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21862,ind_prod_transf,Indicadores da produção (2012=100) - Indústria de transformação,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21863,ind_cap_goods,Indicadores da produção (2012=100) - Produção Industrial - Bens de capital	,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21864,ind_prod_int_goods,Indicadores da produção (2012=100) - Bens intermediários,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21865,ind_prod_man,Indicadores da produção (2012=100) - Produção Industrial - Bens de consumo	,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21866,ind_prod_dur_goods,Indicadores da produção (2012=100) - Bens de consumo duráveis	,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21867,ind_prod_nondur_goods,Indicadores da produção (2012=100) - Semiduráveis e não duráveis,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,21868,ind_prod_cc_materials,Indicadores da produção (2012=100) - Insumos da construção civil,IBGE,M,Index,,diff_12,2,3,30,BCB
+0,Produção,1338,ind_real_sales,Vendas industriais reais (1992=100) - Indústria de transformação,CNI ,M,Index,,diff_12,2,3,32,BCB
+0,Produção,1373,vehi_prod,Produção total de autoveículos,Anfavea,M,Units,,diff_12,0,3,6,BCB
+0,Produção,1374,pass_cars_prod,Produção de automóveis e comerciais leves	,Anfavea,M,Units,,diff_12,0,3,6,BCB
+0,Produção,1375,truck_prod,Produção de caminhões,Anfavea,M,Units,,diff_12,2,3,6,BCB
+0,Produção,1376,bus_prod,Produção de ônibus	,Anfavea,M,Units,,diff_12,0,3,6,BCB
+0,Produção,None,nuci_gv,Nível de Utilização da capacidade instalada (NUCI),FGV,M,Percentage,,diff_12,0,3,-1,FGVDados
+0,Produção,7357,steel_prod,Produção de aço bruto (1992=100)	,BCB-Depec,M,Index,,diff_12,0,3,20,BCB
+0,Produção,28553,road_flow_gross_vehi,Tráfego de veículos pesados nas estradas pedagiadas - ABCR - Dados dessazonalizados,BCB-Depec,M,Index,,diff_diff_12,2,3,10,BCB
+1,Preços,433,ipca,Índice nacional de preços ao consumidor-amplo (IPCA)        ,IBGE,M,Monthly var %,,diff_12,0,5,11,BCB
+1,Preços,11427,ipca_ex,Índice nacional de preços ao consumidor - Amplo (IPCA) - Núcleo por exclusão - EX0	,BCB-Depec,M,Monthly var %,,diff_12,2,5,11,BCB
+1,Preços,16121,ipca_exi,Índice nacional de preços ao consumidor - Amplo (IPCA) - Núcleo por exclusão - EX1	,BCB-Depec,M,Monthly var %,,diff_12,0,5,11,BCB
+1,Preços,27838,ipca_exii,Índice nacional de preços ao consumidor - Amplo (IPCA) - Núcleo por exclusão - EX2,BCB-Depec,M,Monthly var %,,diff_12,0,5,11,BCB
+1,Preços,27839,ipca_exiii,Índice nacional de preços ao consumidor - Amplo (IPCA) - Núcleo por exclusão - EX3,BCB-Depec,M,Monthly var %,,diff_12,0,5,11,BCB
+1,Preços,188,inpc,Índice nacional de preços ao consumidor (INPC)	,IBGE,M,Monthly var %,,diff_12,0,5,10,BCB
+1,Preços,189,igpm,Índice geral de preços do mercado (IGP-M)	,FGV,M,Monthly var %,,diff_12,0,5,-2,BCB
+1,Preços,190,igpdi,Índice geral de preços-disponibilidade interna (IGP-DI)	,FGV,M,Monthly var %,,diff_12,0,5,8,BCB
+1,Preços,7456,incc_m,Índice Nacional de Custo da Construção-Mercado (INCC-M)	,FGV,M,Monthly var %,,diff_12,2,5,-4,BCB
+1,Preços,7461,incc_di_mo,INCC-DI - Mão-de-obra	,FGV,M,Monthly var %,,diff_12,2,5,-4,BCB
+1,Preços,7462,incc_di_servmat,INCC-DI - Materiais e serviços	,FGV,M,Monthly var %,,diff_diff_12,0,5,-4,BCB
+1,Preços,7450,ipatac_m,Índice de Preços por Atacado-Mercado (IPA-M)	,FGV,M,Monthly var %,,diff_12,0,5,0,BCB
+1,Preços,191,ipc_br,Índice de preços ao consumidor-Brasil (IPC-Br)	,FGV,M,Monthly var %,,diff_12,0,5,0,BCB
+1,Preços,225,ipa,Índice de preços ao produtor amplo (IPA)	,FGV,M,Monthly var %,,diff_12,0,5,0,BCB
+1,Preços,193,ipc_fipe,Índice de preços ao consumidor-São Paulo (IPC-Fipe)	,Fipe,M,Monthly var %,,diff_12,0,5,17,BCB
+1,Preços,27574,commdt_index_br,Índice de Commodities - Brasil (IC-Br),BCB-Depec,M,Index,,diff_diff_12,2,1,8,BCB
+1,Preços,27575,commdt_index_agro,Índice de Commodities - Brasil (IC-Br) - Agropecuária,BCB-Depec,M,Index,,diff_diff_12,2,1,8,BCB
+1,Preços,27576,commdt_index_metal,Índice de Commodities - Brasil (IC-Br) - Metal,BCB-Depec,M,Index,,diff_12,,1,8,BCB
+1,Preços,7495,sinapi,Custo da Construção - SINAPI,IBGE,M,Monthly var %,,diff_12,0,5,10,BCB
+1,Preços,7493,ccb_sp,Custo da Cesta Básica - São Paulo ,Dieese,M,u.m.c,,diff_diff_12,2,4,10,BCB
+1,Preços,7481,ccb_bh,Custo da Cesta Básica - Belo Horizonte ,Dieese,M,u.m.c,,diff_diff_12,2,4,10,BCB
+1,Preços,7491,ccb_rj,Custo da Cesta Básica - Rio de Janeiro ,Dieese,M,u.m.c,,diff_diff_12,2,4,10,BCB
+1,Preços,7482,ccb_bsb,Custo da cesta básica - Brasília,Dieese,M,u.m.c,,diff_diff_12,2,4,10,BCB
+1,Preços,7492,ccb_sal,Custo da cesta básica - Salvador	,Dieese,M,u.m.c,,diff_diff_12,2,4,10,BCB
+1,Preços,BZ=F,brent_oil_price,Preço do Barril de Petróleo - Brent -  Fechamento no Período,Yahoo!,M,US$,,pctchg,2,3,0,Yahoo! Finance
+2,Mercado de Trabalho,24349,wage_mass_ind,Massa salarial real – indústria de transformação (2006=100)	,CNI ,M,Index,,diff_12,2,3,7,BCB
+2,Mercado de Trabalho,28763,new_caged,Novo Caged - Estoque de empregos formais - Total	,ME/MT,M,Units,,diff_diff_12,,4,21,BCB
+2,Mercado de Trabalho,28764,caged_agro,Novo Caged - Agropecuária	,ME/MT,M,Units,,diff_12,2,4,21,BCB
+2,Mercado de Trabalho,28765,caged_ind_ext,Novo Caged - Indústrias extrativas,ME/MT,M,Units,,diff_diff,,3,21,BCB
+2,Mercado de Trabalho,28766,caged_ind_transf,Novo Caged - Indústrias de transformação,ME/MT,M,Units,,diff_diff_12,2,4,21,BCB
+2,Mercado de Trabalho,28770,caged_const,Novo Caged - Construção,ME/MT,M,Units,,diff_diff_12,,4,21,BCB
+2,Mercado de Trabalho,28771,caged_com,Novo Caged - Comércio,ME/MT,M,Units,,diff_diff_12,,4,21,BCB
+2,Mercado de Trabalho,28772,caged_servi,Novo Caged - Serviços,ME/MT,M,Units,,diff_diff_12,,4,21,BCB
+2,Mercado de Trabalho,24348,hrs_wkd_ind_transf,Número de horas trabalhadas – indústria de transformação (2006=100)	,CNI ,M,Index,,diff_12,2,1,32,BCB
+2,Mercado de Trabalho,24369,unem_rate_pnad,Taxa de desocupação - PNADC,IBGE,M,Monthly %,,diff_diff,,6,50,BCB
+3,Vendas,1455,total_sales,Índice volume de vendas no varejo - Total - Brasil	,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,20105,const_sales,Índice do volume de vendas no varejo - Material de construção	,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,20106,com_sales,Índice do volume de vendas no varejo - Comércio ampliado	,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,1522,forn_app_sales,Índice volume de vendas no varejo - Móveis e eletrodomésticos,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,1483,fuel_sales,Índice volume de vendas no varejo - Combustíveis e lubrificantes ,IBGE,M,Index,,diff_diff_12,,3,45,BCB
+3,Vendas,1496,nondur_congoods_sales,"Índice volume de vendas no varejo - Hiper/supermercado, Prod. alimentícios, bebidas, fumo",IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,1509,vest_sales,"Índice volume de vendas no varejo - Tecido, vestuário e calçado",IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,1548,vehi_sales,"Índice volume de vendas no varejo - Automóveis, motocicletas, partes e peças",IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,20099,medcare_sales,"Índice volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, perfumaria e cosméticos",IBGE,M,Index,,diff_diff_12,2,3,45,BCB
+3,Vendas,20101,books_sales,"Índice volume de vendas no varejo - Livros, jornais, revistas e papelaria",IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,20102,offcomm_sales,Índice volume de vendas no varejo - Equipamentos e materiais para escritório e comunicação,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,20104,others_sales,Índice volume de vendas no varejo - Outros artigos de uso pessoal e doméstico,IBGE,M,Index,,diff_12,2,3,45,BCB
+3,Vendas,7389,vehi_total_sales_fenabrave,Vendas de veículos pelas concessionárias - Total	,Fenabrave,M,Units,,diff_12,2,3,3,BCB
+3,Vendas,7384,pass_vehi_sales,Vendas de veículos pelas concessionárias - Automóveis	,Fenabrave,M,Units,,diff_12,2,3,3,BCB
+3,Vendas,7385,light_comm_vehi_sales,Vendas de veículos pelas concessionárias - Comerciais leves	,Fenabrave,M,Units,,diff_12,2,3,3,BCB
+3,Vendas,7386,truck_sales,Vendas de veículos pelas concessionárias - Caminhões	,Fenabrave,M,Units,,diff_12,2,3,3,BCB
+3,Vendas,7387,bus_sales,Vendas de veículos pelas concessionárias - Ônibus	,Fenabrave,M,Units,,diff_12,2,3,3,BCB
+3,Vendas,1378,vehi_total_sales_anfavea,Vendas de autoveículos (total)	,Anfavea,M,Units,,diff_12,2,3,6,BCB
+3,Vendas,1379,vehi_domestic_sales,Vendas de autoveículos no mercado interno	,Anfavea,M,Units,,diff_12,2,3,6,BCB
+4,Energia,1402,energy_comm,Consumo de energia elétrica - Comercial	,Eletrobras,M,Gwh,,diff_12,2,3,22,BCB
+4,Energia,1403,energy_res,Consumo de energia elétrica - Residencial	,Eletrobras,M,Gwh,,diff_12,2,3,22,BCB
+4,Energia,1404,energy_ind,Consumo de energia elétrica - Industrial	,Eletrobras,M,Gwh,,diff_12,2,3,22,BCB
+4,Energia,1406,energy_total,Consumo de energia elétrica - Brasil - Total	,Eletrobras,M,Gwh,,diff_12,2,3,22,BCB
+4,Energia,1389,prod_crude_oil,Produção de derivados de petróleo - Óleo bruto	,ANP,M,Barrels/day (mil),,diff_12,0,3,45,BCB
+4,Energia,1390,prod_lgn,Produção de derivados de petróleo - LGN	,ANP,M,Barrels/day (mil),,diff_12,0,3,45,BCB
+4,Energia,1391,prod_oil_deriv,Produção de derivados de petróleo - Total	,ANP,M,Barrels/day (mil),,diff_12,0,3,45,BCB
+4,Energia,1393,co_gas,Consumo de derivados de petróleo - Gasolina,ANP,M,Barrels/day (mil),,diff_12,2,3,45,BCB
+4,Energia,1394,co_glp,Consumo de derivados de petróleo - GLP,ANP,M,Barrels/day (mil),,diff_12,2,3,45,BCB
+4,Energia,1395,co_oilcomb,Consumo de derivados de petróleo - Óleo combustível	,ANP,M,Barrels/day (mil),,diff_12,0,3,45,BCB
+4,Energia,1396,co_diesel,Consumo de derivados de petróleo - Óleo diesel,ANP,M,Barrels/day (mil),,diff_diff_12,2,3,45,BCB
+4,Energia,1398,co_oilderiv_total,Consumo de derivados de petróleo - Total	,ANP,M,Barrels/day (mil),,diff_diff_12,2,3,45,BCB
+4,Energia,1399,co_hid_alc,Consumo de álcool carburante - Álcool hidratado	,ANP,M,Barrels/day (mil),,diff_12,,3,45,BCB
+4,Energia,1401,co_alc_total,Consumo de álcool carburante - Total,ANP,M,Barrels/day (mil),,diff_12,2,3,45,BCB
+5,Setor Externo,22701,curr_acc,Transações correntes - mensal - saldo	,BCB-DSTAT,M,US$ ,,diff_diff_12,2,3,50,BCB
+5,Setor Externo,23080,idp_gdp_twelve_mon,Investimento Direto no País acumulado em 12 meses em relação ao PIB - mensal,BCB-DSTAT,M,Percentage,,diff_diff_12,2,2,28,BCB
+5,Setor Externo,22865,ide_mon,Investimentos diretos no exterior - IDE - mensal - líquido,BCB-DSTAT,M,US$,,diff_12,0,3,28,BCB
+5,Setor Externo,SECEX12_XVTOT12,exp_fob,Exportações - FOB,MDIC/Secex,M,US$ (milhões),,diff_diff_12,,3,8,Ipeadata
+5,Setor Externo,SECEX12_XBENCAPGCE12,exp_kgood_fob,Exportações - bens de capital - (FOB),MDIC/Secex,M,US$ (milhões),,diff_12,2,3,8,Ipeadata
+5,Setor Externo,SECEX12_XBENCONGCE12,exp_comgood_fob,Exportações - FOB - Bens de consumo,MDIC/Secex,M,US$ (milhões),,diff_12,2,3,8,Ipeadata
+5,Setor Externo,SECEX12_MVTOT12,imp_fob,Importações - FOB,MDIC/Secex,M,US$ (milhões),,diff_12,2,3,8,Ipeadata
+5,Setor Externo,SECEX12_MBENCAPGCE12,imp_kgood_fob,Importações - FOB - Bens de capital,MDIC/Secex,M,US$ (milhões),,diff_12,2,3,8,Ipeadata
+5,Setor Externo,SECEX12_MBENCONGCE12,imp_comgood_fob,Importações - FOB - Bens de consumo,MDIC/Secex,M,US$ (milhões),,diff_diff_12,,3,8,Ipeadata
+6,Setor Público,2057,net_publi_debt_states,Dívida Líquida do Setor Público - Saldos em u.m.c. milhões - Total - Governos estaduais	,BCB-DSTAT,M,R$,,diff_diff_12,2,3,31,BCB
+6,Setor Público,2143,pr_central_gov,NFSP sem desvalorização cambial - (u.m.c.) - Resultado primário - Total - GF e BCB        ,BCB-DSTAT,M,R$,,diff_12,0,3,31,BCB
+6,Setor Público,4503,net_debt_percent_gdp,Dívida Líquida do Setor Público (% PIB) - Total - Governo Federal e Banco Central,BCB-DSTAT,M,Percentage,,diff_12,2,2,31,BCB
+6,Setor Público,4507,net_debt_per_gdp_states,Dívida Líquida do Setor Público (% PIB) - Total - Governos estaduais,BCB-DSTAT,M,Percentage,,diff_diff_12,2,2,31,BCB
+6,Setor Público,4509,net_debt_per_gdp_pe,Dívida Líquida do Setor Público (% PIB) - Total - Empresas estatais	,BCB-DSTAT,M,Percentage,,diff_diff_12,2,1,31,BCB
+6,Setor Público,4513,net_debt_per_gdp_cons_ps,Dívida Líquida do Setor Público (% PIB) - Total - Setor público consolidado	,BCB-DSTAT,M,Percentage,,diff_12,2,2,31,BCB
+6,Setor Público,10733,nm_debt_cost,Custo real da dívida não-monetária - Total (valor),BCB-DSTAT,M,u.m.c,,diff_12,0,3,31,BCB
+6,Setor Público,10734,nm_debt_cost_int,Custo real da dívida não-monetária - Total (taxa),BCB-DSTAT,M,% a.a ,,diff_12,0,2,31,BCB
+6,Setor Público,SRF12_TOTGER12,revenue_rf,Arrecadação das receitas federais - receita bruta,ME,M,u.m.c,,diff_12,2,4,14,Ipeadata
+7,Financeiras,1785,mon_base,BM - Base monetária restrita (média nos dias úteis do mês)	,BCB-DSTAT,M,R$,,diff_12,2,3,31,BCB
+7,Financeiras,3546,inter_reserv,Reservas internacionais - Total - mensal	,BCB-DSTAT,M,US$,,diff_diff_12,2,3,31,BCB
+7,Financeiras,3547,inter_reserv_liq,Reservas internacionais - Reservas em divisas conversíveis - Total	,BCB-DSTAT,M,US$,,diff_diff_12,2,3,31,BCB
+7,Financeiras,27788,mi_wkdavg,Meios de pagamento - M1 (média dos dias úteis do mês) - Novo	,BCB-DSTAT,M,R$,,diff_12,2,3,31,BCB
+7,Financeiras,27810,mii_balance_endp,Meios de pagamento amplos - M2 (saldo em final de período) - Novo	,BCB-DSTAT,M,R$ mil,,diff_diff_12,2,3,31,BCB
+7,Financeiras,4390,selic_mon,Taxa de juros - Selic acumulada no mês	,BCB-Demab,M,Percentage,,diff_diff_12,2,2,0,BCB
+7,Financeiras,256,interest_longterm,Taxa de juros de longo prazo - TJLP	,BCB-Demab,M,% a.a,,diff_diff_12,2,5,0,BCB
+7,Financeiras,4391,cdi_mon,CDI acumulada no mês	,BCB-Demab,M,% a.m,,diff_diff_12,2,2,0,BCB
+7,Financeiras,20631,credit_tot,Concessões de crédito - Total	,BCB-DSTAT,M,R$,,diff_diff_12,,4,28,BCB
+7,Financeiras,20632,credit_enter,Concessões de crédito - Pessoas jurídicas - Total	,BCB-DSTAT,M,R$,,diff_diff_12,,4,28,BCB
+7,Financeiras,7415,bndes_desem_total,Desembolsos do sistema BNDES - Total,BNDES,M,R$ (milhões),,diff_12,2,4,15,BCB
+7,Financeiras,7416,bndes_desem_ind_transf,Desembolsos do sistema BNDES - Indústria de transformação        ,BNDES,M,R$ (milhões),,diff_12,2,4,15,BCB
+7,Financeiras,7417,bndes_desem_comserv,Desembolsos do sistema BNDES - Comércio e serviços,BNDES,M,R$ (milhões),,diff_12,2,4,15,BCB
+7,Financeiras,7419,bndes_desem_ind_ext,Desembolsos do sistema BNDES - Indústria extrativa,BNDES,M,R$ (milhões),,diff_12,2,4,15,BCB
+7,Financeiras,3698,exr_usd_mon_mean,Taxa de câmbio - Livre - Dólar americano (venda) - Média de período - mensal	,BCB-DSTAT,M,US$,,diff_12,2,1,1,BCB
+7,Financeiras,29038,household_debt,Endividamento das famílias exceto crédito habitacional (RNDBF)	,BCB-DSTAT,M,Percent,,diff_diff_12,2,3,56,BCB
+7,Financeiras,^BVSP,ibov,Ibovespa - Variação mensal,B3,M,Points,,pctchg,2,1,1,Yahoo! Finance
+7,Financeiras,^IXIC,nasdaq,Nasdaq - Variação mensal ,Nasdaq,M,Points,,pctchg,2,1,1,Yahoo! Finance
+7,Financeiras,^GSPC,snp_500,S&P 500 - Variação mensal,S&P 500,M,Points,,pctchg,2,1,1,Yahoo! Finance
+7,Financeiras,^DJI,dji,Dow Jones Industry Composite Index - Variação mensal,DJ,M,Points,,pctchg,2,1,1,Yahoo! Finance
+8,Expectativas,17660,serv_conf_index_fgv,Índice de Confiança Serviços,FGV/BCB,M,Index,,diff_diff_12,2,1,-1,BCB
+8,Expectativas,17661,serv_curr_situ_index_fgv,Índice de Situação Atual - Serviços,FGV/BCB,M,Index,,diff_diff_12,2,3,-1,BCB
+8,Expectativas,17662,serv_expec_index_fgv,Índice de Expectativas - Serviços,FGV/BCB,M,Index,,diff_12,2,1,-1,BCB
+8,Expectativas,4393,ind_conf_cons_feco,Índice de Confiança do Consumidor,Fecomercio,M,Index,,diff_diff_12,2,1,15,BCB
+8,Expectativas,4394,ind_eco_cond_feco,Índice de Condições Econômicas Atuais,Fecomercio,M,Index,,diff_diff_12,2,1,15,BCB
+8,Expectativas,4395,ind_fut_expec_feco,Índice de Expectativas Futuras,Fecomercio,M,Index,,diff_diff_12,2,1,15,BCB
+8,Expectativas,None,ind_conf_index_fgv,Índice de Confiança - Índustria ,FGV,M,Index,,diff_12,0,1,-1,FGVDados
+8,Expectativas,None,ind_curr_situ_index_fgv,Índice de Situação Atual - Índustria,FGV,M,Index,,diff_12,0,1,-1,FGVDados
+8,Expectativas,None,ind_expec_index_fgv,Índice de Expectativas - Índustria,FGV,M,Index,,diff_12,0,1,-1,FGVDados
+8,Expectativas,None,cons_conf_index_fgv,Índice de Confiança do Consumidor,FGV,M,Index,,diff_diff_12,2,1,-5,FGVDados
+8,Expectativas,None,cons_curr_situ_index_fgv,Índice de Confiança do Consumidor - Situação Presente,FGV,M,Index,,diff_diff_12,2,3,-5,FGVDados
+8,Expectativas,None,cons_expec_index_fgv,Índice de Confiança do Consumidor - Expectativas,FGV,M,Index,,diff_diff_12,0,1,-5,FGVDados
+8,Expectativas,None,emp_conf_index_fgv,Índice de Confiança Empresarial ,FGV,M,Index,,diff_12,0,1,2,FGVDados
+8,Expectativas,None,emp_curr_situ_index_fgv,Índice de Confiança Empresarial - Situação Atual ,FGV,M,Index,,diff_12,0,1,2,FGVDados
+8,Expectativas,None,emp_expec_index_fgv,Índice de Confiança Empresarial - Expectativas,FGV,M,Index,,diff_12,0,1,2,FGVDados
+8,Expectativas,PIB Total,expec_gdp,Expectativas de Mercado - Boletim Focus - PIB - Mediana - ano corrente - mês a mês fechamento,BCB,M,Anual var %,,diff_diff_12,2,2,0,Focus
+8,Expectativas,IPCA,expec_ipca,Expectativas de Mercado - Boletim Focus - IPCA - Mediana - ano corrente - mês a mês fechamento,BCB,M,Anual var %,,diff_12,2,2,0,Focus
+8,Expectativas,Selic,expec_selic,Expectativas de Mercado - Boletim Focus - Taxa de Juros Selic - Mediana - ano corrente - mês a mês,BCB,M,% a.a ,,diff_12,2,2,0,Focus
+8,Expectativas,Câmbio,expec_exr_usd,Expectativas de Mercado - Boletim Focus - Taxa de Câmbio (Dólar) - Mediana - ano corrente - mês a mês,BCB,M,R$/USD Year,,diff_12,2,2,0,Focus
+9,Google Trends,Artes e entretenimento,gt_arts,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,1,0,gtrendsR
+9,Google Trends,Livros e literatura,gt_books,Google Trends ,Google,M,Trend Index,,diff_diff_12,0,1,0,gtrendsR
+9,Google Trends,Finanças ,gt_finance,Google Trends ,Google,M,Trend Index,,diff_12,0,3,0,gtrendsR
+9,Google Trends,Saúde ,gt_health,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,1,0,gtrendsR
+9,Google Trends,Internet e Telecom,gt_internet,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,3,0,gtrendsR
+9,Google Trends,Notícias ,gt_news,Google Trends ,Google,M,Trend Index,,diff_12,0,1,0,gtrendsR
+9,Google Trends,Pets e Animais,gt_pets,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,1,0,gtrendsR
+9,Google Trends,Ciência,gt_science,Google Trends ,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,Viagens,gt_travel,Google Trends ,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,Automóveis e Veículos,gt_auto,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Negócios e Indústrias ,gt_business,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Comida e Bebida,gt_foods,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Hobbies e Lazer ,gt_lazer,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Trabalhos e Educação,gt_jobs,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Comunidades online,gt_oncomm,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Mercado Imobiliário,gt_realestate,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Shopping,gt_shopping,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Beleza e Fitness ,gt_bfit,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Computador e Eletrônicos,gt_pceletro,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Jogos,gt_games,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Casa e Jardim,gt_home,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Leis e Governo,gt_law,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Povo e Sociedade,gt_povo,Google Trends ,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,Referências,gt_ref,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,Sports ,gt_sports,Google Trends ,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,crise,gt_crise,Google Trends - crise,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,desemprego,gt_desemprego,Google Trends - desemprego,Google,M,Trend Index,,diff_12,0,1,0,gtrendsR
+9,Google Trends,seguro desemprego,gt_segdesemp,Google Trends - seguro desemprego,Google,M,Trend Index,,diff_12,0,3,0,gtrendsR
+9,Google Trends,empregos,gt_empregos,Google Trends - empregos,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,trabalho,gt_trabalho,Google Trends - Trabalho,Google,M,Trend Index,,diff_diff_12,2,3,0,gtrendsR
+9,Google Trends,fgts,gt_fgts,Google Trends - FGTS,Google,M,Trend Index,,diff_12,0,1,0,gtrendsR
+9,Google Trends,renda,gt_renda,Google Trends - Renda,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,salario,gt_salario,Google Trends - Salário,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,economia,gt_economia,Google Trends - Economia,Google,M,Trend Index,,diff_12,2,1,0,gtrendsR
+9,Google Trends,crescimento pib,gt_cresc_pib,Google Trends - Crescimento PIB,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,inflação,gt_inflacao,Google Trends - Inflação,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,juros,gt_juros,Google Trends - Juros,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,divida,gt_divida,Google Trends - Dívida,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,falência,gt_falencia,Google Trends - Falência,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,empréstimo,gt_emprestimo,Google Trends - Empréstimo,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,política,gt_politica,Google Trends - Política,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,aluguel,gt_aluguel,Google Trends - Aluguel,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,ganhar dinheiro,gt_seguro,Google Trends - Seguro,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,governo,gt_governo,Google Trends - Governo,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,viagem,gt_viagem,Google Trends - Viagem,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,empreendedor,gt_empreendedor,Google Trends - Empreendedor,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,abrir empresa,gt_empresa,Google Trends - Abrir empresa,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,credito,gt_credito,Google Trends - Crédito,Google,M,Trend Index,,diff_diff_12,2,,,gtrendsR
+9,Google Trends,dolar,gt_dolar,Google Trends - Dólar,Google,M,Trend Index,,diff_12,2,,,gtrendsR
+9,Google Trends,financiamento,gt_financiamento,Google Trends - Financiamento,Google,M,Trend Index,,diff_12,2,,,gtrendsR
